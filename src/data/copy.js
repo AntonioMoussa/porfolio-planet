@@ -5,7 +5,7 @@ import klarna from "../assets/Linkedin-klarna@2x.jpg";
 import GitHubIcon from "@mui/icons-material/GitHub";
 import OpenInNewIcon from "@mui/icons-material/OpenInNew";
 import HeroAnton from "../assets/HeroAnton.png";
-import Flaggapp from "../assets/flaggapp.png";
+import Flaggapp from "../assets/Flaggapp.png";
 import Finansappen from "../assets/Finansappen.png"
 
 export const COPY = {
