@@ -10,9 +10,9 @@ import Finansappen from "../assets/Finansappen.png"
 
 export const COPY = {
   hero: {
-    title: "Smarta lösningar som driver resultat.",
+    title: "App-utvecklare med driv att bygga nästa stora tech-lösning",
     subtitle:
-      "Jag utvecklar användarvänliga system som effektiviserar logistik och förbättrar kundupplevelsen utan krångliga arbetsflöden.",
+      "Jag utvecklar dynamiska och responsiva gränssnitt som ger en sömlös användarupplevelse. Med erfarenhet av att populera UI med data från API:er skapar jag effektiva och datadrivna applikationer.",
     cta1: {
       text: "TA KONTAKT",
       callback: () => {
@@ -32,7 +32,7 @@ export const COPY = {
   aboutMe: {
     title: "Antonio Moussa",
     subtitle:
-      "Jag hjälper företag att öka sin försäljning med smarta webblösningar utan att behöva investera i dyra system.",
+      "Med en bakgrund i armén har jag byggt upp en disciplin och ett fokus som jag tar med mig in i app-utvecklingens värld. Jag kombinerar strukturerat arbete med en smittsam energi och en vilja att alltid stötta mitt team. Oavsett om det gäller att optimera kod, lösa komplexa problem eller hålla moralen uppe i pressade situationer kan du räkna med att jag levererar – både i teknik och laganda.",
     cta: {
       text: "TA KONTAKT",
       callback: () => {
